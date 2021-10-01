@@ -1,0 +1,26 @@
+body{
+    background-color: wheat;
+}
+header{
+    font-family: 'Courier Prime', monospace;
+    float: left;
+    width: 100%;
+    font-size: 300%;
+ 
+    
+}
+.headerLink{
+    padding-left: 10%;
+}
+.container{
+    margin-top: 10%;
+}
+
+#link{ 
+    font-size: 38px;
+}
+
+#button{ 
+    padding: 25px;
+    font-size: 30px
+}
